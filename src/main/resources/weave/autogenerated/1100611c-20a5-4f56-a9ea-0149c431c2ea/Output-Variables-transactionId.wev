@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_1100611c_20a5_4f56_a9ea_0149c431c2ea_Output_Variables_transactionId = {|  |}
+

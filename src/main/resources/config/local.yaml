@@ -1,0 +1,12 @@
+http:
+  listener:
+    host: "localhost"
+    port: "9081"
+    path: "/travelOnTipCall/{serviceType}"
+    
+db:
+  host: "sql12.freesqldatabase.com"
+  port: "3306"
+  username: "sql12597801"
+  password: "uvlRUj4IZw"
+  database: "sql12597801"
